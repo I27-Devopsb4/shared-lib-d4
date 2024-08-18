@@ -1,4 +1,4 @@
-import com.divya.builds.Calculator;
+import com.divya.builds.Calculator
 def call(Map pipelineparams) {
     Calculator calculator = new Calculator(this)
 
